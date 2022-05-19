@@ -1,0 +1,5 @@
+com\assign\qa\testcases\LoginTest.class
+com\assign\qa\testcases\CheckPricesTest.class
+com\assign\qa\testcases\SearchFlightsTest.class
+com\assign\qa\testcases\TestSetup.class
+com\assign\qa\testcases\CountFlightsTest.class

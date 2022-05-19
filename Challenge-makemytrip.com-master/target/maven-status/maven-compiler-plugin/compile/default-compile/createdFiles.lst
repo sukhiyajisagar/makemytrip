@@ -1,0 +1,5 @@
+com\assign\qa\pages\LoginPage.class
+com\assign\qa\base\TestBase.class
+com\assign\qa\pages\FlightInfoPage.class
+com\assign\qa\pages\HomePage.class
+com\assign\qa\util\utilFunctions.class
